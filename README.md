@@ -9,19 +9,23 @@ To run this project, you need Python 3.7+ installed on your system. Follow these
 1. Clone the repository:
    git clone https://github.com/audreyper/bluesky-cms.git
 
-
 2. Navigate to the project directory:
 
+```bash
 cd repository-name
+```
 
 3. Install dependencies:
 
+```bash
 pip3 install -r requirements.txt
+```
 
 4. Run the script:
 
+```bash
 python3 bluesky-cms.py
-
+```
 
 ## Configurations
 
